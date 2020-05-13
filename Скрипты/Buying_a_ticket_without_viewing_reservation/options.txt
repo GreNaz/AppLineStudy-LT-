@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\nazar\OneDrive\Документы\Тестирование\Домашняя работа\Скрипты\Buying_a_ticket_without_viewing_reservation
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\buying_a_ticket_without_viewing_reservation\\logfile.log
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\buying_a_ticket_without_viewing_reservation\\combined_Buying_a_ticket_without_viewing_reservation.c
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\buying_a_ticket_without_viewing_reservation\\pre_cci.c

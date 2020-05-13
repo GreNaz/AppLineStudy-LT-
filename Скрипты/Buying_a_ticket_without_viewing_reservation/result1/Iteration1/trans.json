@@ -1,0 +1,42 @@
+[
+    {
+        "transactionName": "open_site",
+        "rawStartTime": 1589325494872,
+        "rawEndTime": 1589325496378
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1589325496390,
+        "rawEndTime": 1589325496708
+    },
+    {
+        "transactionName": "go_to_flights",
+        "rawStartTime": 1589325496713,
+        "rawEndTime": 1589325497041
+    },
+    {
+        "transactionName": "fing_flight",
+        "rawStartTime": 1589325497045,
+        "rawEndTime": 1589325497258
+    },
+    {
+        "transactionName": "select_ticket",
+        "rawStartTime": 1589325497263,
+        "rawEndTime": 1589325497393
+    },
+    {
+        "transactionName": "payment_details",
+        "rawStartTime": 1589325497397,
+        "rawEndTime": 1589325497588
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1589325497592,
+        "rawEndTime": 1589325497879
+    },
+    {
+        "transactionName": "4_Skript_Buying_a_ticket_without_vieving_reservation",
+        "rawStartTime": 1589325494854,
+        "rawEndTime": 1589325497881
+    }
+]

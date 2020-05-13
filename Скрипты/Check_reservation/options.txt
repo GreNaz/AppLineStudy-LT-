@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\nazar\OneDrive\Документы\Тестирование\Домашняя работа\Скрипты\Check_reservation
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\check_reservation\\logfile.log
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\check_reservation\\combined_Check_reservation.c
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\check_reservation\\pre_cci.c

@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "open_site",
+        "rawStartTime": 1589325879435,
+        "rawEndTime": 1589325880975
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1589325880983,
+        "rawEndTime": 1589325881348
+    },
+    {
+        "transactionName": "Check_ticket",
+        "rawStartTime": 1589325881353,
+        "rawEndTime": 1589325881759
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1589325881763,
+        "rawEndTime": 1589325881991
+    },
+    {
+        "transactionName": "5_Skript_Check_reservation",
+        "rawStartTime": 1589325879417,
+        "rawEndTime": 1589325881993
+    }
+]

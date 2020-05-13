@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\nazar\OneDrive\Документы\Тестирование\Домашняя работа\Скрипты\Search_tickets_without_payment
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\search_tickets_without_payment\\logfile.log
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\search_tickets_without_payment\\combined_Search_tickets_without_payment.c
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\search_tickets_without_payment\\pre_cci.c

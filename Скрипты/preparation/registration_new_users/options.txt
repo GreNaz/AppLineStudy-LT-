@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\nazar\OneDrive\Документы\Тестирование\Домашняя работа\Скрипты\Подготовительные\registration_new_users
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\подготовительные\registration_new_users\\logfile.log
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\подготовительные\registration_new_users\\combined_registration_new_users.c
+c:\users\nazar\onedrive\документы\тестирование\домашняя работа\скрипты\подготовительные\registration_new_users\\pre_cci.c
