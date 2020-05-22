@@ -51,7 +51,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="2_script_delete_reservation__*delimiter*__open_site__*delimiter*__login__*delimiter*__Chek_ticket__*delimiter*__Cancel_reservation__*delimiter*__logout"
+Order="2_script_delete_reservation__*delimiter*__open_site__*delimiter*__login__*delimiter*__Check_ticket__*delimiter*__Cancel_reservation__*delimiter*__logout"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -61,6 +61,6 @@ ActiveRunName=result1
 2_script_delete_reservation=
 open_site=
 login=
-Chek_ticket=
+Check_ticket=
 Cancel_reservation=
 logout=

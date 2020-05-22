@@ -25,9 +25,11 @@
     <FileEntry Name="data.zip" Filter="1" />
     <FileEntry Name="Deliting_a_reservation.c.pickle" Filter="1" />
     <FileEntry Name="Deliting_a_reservation.ci" Filter="1" />
+    <FileEntry Name="Deliting_a_reservation.prm.bak" Filter="1" />
     <FileEntry Name="Deliting_a_reservation.sdf" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvPQ1.609.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam.dat" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />

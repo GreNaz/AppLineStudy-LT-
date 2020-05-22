@@ -84,7 +84,7 @@ Action()
 	
 	
 	lr_think_time(5);
-	lr_start_transaction("Chek_ticket");
+	lr_start_transaction("Check_ticket");
 
 	web_add_header("Sec-Fetch-User", 
 		"?1");
@@ -105,7 +105,7 @@ Action()
 		"Mode=HTML",
 		LAST);
 
-	lr_end_transaction("Chek_ticket",LR_AUTO);
+	lr_end_transaction("Check_ticket",LR_AUTO);
 
 	
 	
